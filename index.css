@@ -2,5 +2,10 @@ div {
   background-color: blue;
 }
 
+h1 {
+  color: yellow;
+}
+
 body {
-  background-image: linear-gradient(to right, red , yellow);}
+  background-image: linear-gradient(to right, red, yellow);
+}
